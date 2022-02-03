@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="movies.xsl" type="text/xsl"?>
+<collection>
+	<movie>
+		<title>TITLE 001</title>
+		<year>YEAR_001</year>
+		<genre>GENRE_001</genre>
+	</movie>
+	<movie>
+		<title>TITLE 002</title>
+		<year>YEAR_002</year>
+		<genre>GENRE_002</genre>
+	</movie>
+	<movie>
+		<title>TITLE 003</title>
+		<year>YEAR_003</year>
+		<genre>GENRE_003</genre>
+	</movie>
+</collection>
